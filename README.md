@@ -1,5 +1,8 @@
 ## Digital Image Processing 
 
+**Dithering** <br>
+[[Report]](./src-0/report.pdf)  [[Source]](src-0)  
+
 **Intensity Transformations & Spatial Filtering** <br>
 [[Report]](./src-1/report.pdf)  [[Source]](src-1)  
 
