@@ -7,7 +7,10 @@
 [[Report]](./src-1/report.pdf)  [[Source]](src-1)  
 
 **Noise Reduction Using Spatial Filters** <br>
-[[Report]](./src-2/report.pdf)  [[Source]](src-2)  
+[[Report]](./src-2/report.pdf)  [[Source]](src-2)
+
+**Image Inpainting** <br>
+[[Report]](./src-3/report.pdf)  [[Source]](src-3) 
 
 
 <br><br><br>
