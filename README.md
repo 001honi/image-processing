@@ -12,6 +12,9 @@
 **Image Inpainting** <br>
 [[Report]](./src-3/report.pdf)  [[Source]](src-3) 
 
+**Morphological Segmentation** <br>
+[[Report]](./src-4/report.pdf)  [[Source]](src-4) 
+
 
 <br><br><br>
 Distributed under the MIT License. See `LICENSE` for more information.
